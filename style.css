@@ -1,0 +1,8 @@
+.body_backgorund {
+    background-image: url("https://media.istockphoto.com/vectors/color-pencil-background-vector-id1270006761");
+    background-position: center;
+}
+#myCanvas { 
+    border-width:10px; background-color: 
+    white; border-style:ridge; 
+}
